@@ -43,7 +43,6 @@ npm start
 Open http://localhost:3000 in your browser.
 ```
 ## 💡 Future Enhancements
-<img width="921" alt="image" src="https://github.com/user-attachments/assets/abdd8fbd-6d52-4874-8118-3b575e913189" />
 
 - 🔎 Search functionality
 - 🌍 Multi-language support
@@ -51,7 +50,7 @@ Open http://localhost:3000 in your browser.
 - 🧠 Smart recommendations
 
 ## 📸 HomePage image
-
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/abdd8fbd-6d52-4874-8118-3b575e913189" />
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, make changes, and open a pull request.
