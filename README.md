@@ -43,11 +43,15 @@ npm start
 Open http://localhost:3000 in your browser.
 ```
 ## 💡 Future Enhancements
+<img width="921" alt="image" src="https://github.com/user-attachments/assets/abdd8fbd-6d52-4874-8118-3b575e913189" />
 
 - 🔎 Search functionality
 - 🌍 Multi-language support
 - 💾 Offline reading mode
 - 🧠 Smart recommendations
+
+## 📸 HomePage image
+
 
 ## 🤝 Contributing
 Contributions are welcome! Feel free to fork this repo, make changes, and open a pull request.
@@ -55,5 +59,5 @@ Contributions are welcome! Feel free to fork this repo, make changes, and open a
 ## 📄 License
 This project is open-source and available under the MIT License.
 
-👤 Author
+## 👤 Author
 ![Yashwanth Tokala](https://github.com/YashwanthTokala)
